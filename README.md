@@ -1,0 +1,1 @@
+Homeworks for the OTUS course "Python QA Engineer".
